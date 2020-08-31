@@ -1,4 +1,4 @@
-# Py-Projects
+# phys-simulations
 
 A collection of Python projects I've completed focused on simulation - namely, stochastic processes and physical models.
 
